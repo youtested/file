@@ -1,0 +1,8 @@
+node_modules/
+.gradle/
+.kotlin/
+.cxx/
+build/
+*.jar
+.expo/
+.replit-artifact/
