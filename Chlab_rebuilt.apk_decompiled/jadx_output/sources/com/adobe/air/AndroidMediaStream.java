@@ -1,0 +1,46 @@
+package com.adobe.air;
+
+import android.net.Uri;
+import java.io.BufferedInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+
+/* loaded from: /home/codespace/chem/Chlab_rebuilt.apk_decompiled/build/apk/classes.dex */
+public class AndroidMediaStream {
+    private static final int ERROR = -2;
+    private BufferedInputStream mBufferedStream = null;
+    private int mBufferSize = 0;
+    private Uri mContentURI = null;
+
+    public boolean loadContentURI(String str) {
+        this.mContentURI = Uri.parse(str);
+        if (this.mBufferedStream == null) {
+            try {
+                this.mBufferedStream = new BufferedInputStream(AndroidActivityWrapper.GetAndroidActivityWrapper().getActivity().getContentResolver().openInputStream(this.mContentURI));
+            } catch (FileNotFoundException e) {
+                return false;
+            } catch (Exception e2) {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    public int Read(byte[] bArr, int i) {
+        try {
+            return this.mBufferedStream.read(bArr, 0, i);
+        } catch (IOException e) {
+            return ERROR;
+        }
+    }
+
+    public void Close() {
+        if (this.mBufferedStream != null) {
+            try {
+                this.mBufferedStream.close();
+            } catch (Exception e) {
+            }
+            this.mBufferedStream = null;
+        }
+    }
+}
