@@ -1,0 +1,20 @@
+Methanol,Organic,Organic,1,Methanol,Methanol,Methanol,0.791,0.793,0.792,32.04,100,-97.6,64.7,0,0xF8FAFA,1,0xF8FAFA,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,メタノール,甲醇,甲醇,메탄올,100,1,1,0,0,0
+Ethanol,Organic,Organic,1,Ethanol,Ethanol,Ethanol,0.789,0.789,0.789,46.07,100,-114.1,78.4,0,0xF8FAFA,1,0xF8FAFA,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,エチルアルコール,乙醇,乙醇,에탄올,100,1,1,0,0,0
+1-Propanol,Organic,Organic,1,1-Propanol,1-Propanol,1-Propanol,0.804,0.804,0.8,60.1,100,-127,97.2,0,0xE0F0FF,0.3,0xE0F0FF,0.3,0xE0F0FF,0.3,0xE0F0FF,0.3,0.4,0.3,1-プロパノール,1-丙醇,1-丙醇,1-프로판올,100,1,1,0,0,0
+2-Propanol,Organic,Organic,1,2-Propanol,2-Propanol,2-Propanol,0.786,0.785,0.785,60.1,100,-89.5,82.4,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,2-プロパノール,2-丙醇,2-丙醇,2-프로판올,100,1,1,0,0,0
+1-Butanol,Organic,Organic,1,1-Butanol,1-Butanol,1-Butanol,0.81,0.81,0.81,74.12,100,-89.5,117.7,0,0xE0F0FF,0.3,0xE0F0FF,0.3,0xE0F0FF,0.3,0xE0F0FF,0.3,0.4,0.3,1-ブタanol,1-丁醇,1-丁醇,1-부탄올,100,1,1,0,0,0
+2-Butanol,Organic,Organic,1,2-Butanol,2-Butanol,2-Butanol,0.808,0.808,0.808,74.12,100,-114.7,99.5,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,2-ブタanol,2-丁醇,2-丁醇,2-부탄올,100,1,1,0,0,0
+1-Pentanol,Organic,Organic,1,1-Pentanol,1-Pentanol,1-Pentanol,0.814,0.814,0.814,88.15,22,-78.9,138,0,0xE0F0FF,0.3,0xE0F0FF,0.3,0xE0F0FF,0.3,0xE0F0FF,0.3,0.4,0.3,1-ペンタanol,1-戊醇,1-戊醇,1-펜탄올,22,1,1,0,0,0
+1-Hexanol,Organic,Organic,1,1-Hexanol,1-Hexanol,1-Hexanol,0.819,0.819,0.819,102.17,6.3,-46.7,157,0,0xE0F0FF,0.3,0xE0F0FF,0.3,0xE0F0FF,0.3,0xE0F0FF,0.3,0.4,0.3,1-ヘキサンol,1-己醇,1-己醇,1-헥산올,6.3,1,1,0,0,0
+1-Heptanol,Organic,Organic,1,1-Heptanol,1-Heptanol,1-Heptanol,0.822,0.822,0.822,116.2,1.7,-34.1,176,0,0xE0F0FF,0.3,0xE0F0FF,0.3,0xE0F0FF,0.3,0xE0F0FF,0.3,0.4,0.3,1-ヘプタanol,1-庚醇,1-庚醇,1-헵탄올,1.7,1,1,0,0,0
+1-Octanol,Organic,Organic,1,1-Octanol,1-Octanol,1-Octanol,0.827,0.827,0.827,130.23,0.3,-16.3,195,0,0xE0F0FF,0.3,0xE0F0FF,0.3,0xE0F0FF,0.3,0xE0F0FF,0.3,0.4,0.3,1-オクタanol,1-辛醇,1-辛醇,1-옥탄올,0.3,1,1,0,0,0
+Propylene glycol,Organic,Organic,1,Propylene glycol,Propylene glycol,Propylene glycol,1.036,1.036,1.036,76.09,100,-59,188.2,0,0xF8FAFA,1,0xF8FAFA,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,プロパレングリコール,丙二醇,丙二醇,프로필렌 글리콜,100,1,1,0,0,0
+Glycerol,Organic,Organic,1,Glycerol,Glycerol,Glycerol,1.261,1.261,1.261,92.09,100,17.8,290,0,0xF8FAFA,1,0xF8FAFA,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,グリセロール,甘油,甘油,글리세롤,100,1,1,0,0,0
+Benzene,Organic,Organic,1,Benzene,Benzene,Benzene,0.879,0.879,0.879,78.11,0.18,5.5,80.1,0,0xF5F5F5,1,0xF5F5F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,ベンゼン,苯,苯,벤젠,0.18,1,0,0,0,0
+Toluene,Organic,Organic,1,Toluene,Toluene,Toluene,0.867,0.867,0.867,92.14,0.052,-95,110.6,0,0xF0F4F8,1,0xF0F4F8,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,トルエン,甲苯,甲苯,톨루엔,0.052,1,0,0,0,0
+Ethylbenzene,Organic,Organic,1,Ethylbenzene,Ethylbenzene,Ethylbenzene,0.867,0.867,0.867,106.16,0.015,-95,136,0,0xF0F4F8,1,0xF0F4F8,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,エチルベンゼン,乙苯,乙苯,에틸벤젠,0.015,1,0,0,0,0
+Styrene,Organic,Organic,1,Styrene,Styrene,Styrene,0.906,0.906,0.906,104.15,0.03,-30.6,145,0,0xF0F4F8,1,0xF0F4F8,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,ス伵レン,苯乙烯,苯乙烯,스타이렌,0.03,1,0,0,0,0
+Chloroform,Organic,Organic,1,Chloroform,Chloroform,Chloroform,1.483,1.483,1.483,119.38,0.8,-63.5,60.5,0,0xF5F5F5,1,0xF5F5F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,クロロホルム,三氯甲烷,三氯甲烷,클로로포름,0.8,1,0,0,0,0
+Dichloromethane,Organic,Organic,1,Dichloromethane,Dichloromethane,Dichloromethane,1.327,1.327,1.327,84.93,1.3,-97,40,0,0xF0F4F8,1,0xF0F4F8,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,ジクロロメタ儿,二氯甲烷,二氯甲烷,디클로로메탄,1.3,1,0,0,0,0
+Trichloroethylene,Organic,Organic,1,Trichloroethylene,Trichloroethylene,Trichloroethylene,1.462,1.462,1.462,131.4,0.11,-84.8,87.2,0,0xF5F5F5,1,0xF5F5F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,トリクロロエチレン,三氯乙烯,三氯乙烯,트리클로로에틸렌,0.11,1,0,0,0,0
+Tetrachloroethylene,Organic,Organic,1,Tetrachloroethylene,Tetrachloroethylene,Tetrachloroethylene,1.623,1.623,1.623,165.83,0.015,-22.3,121.1,0,0xF5F5F5,1,0xF5F5F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,テトラクロロエチレン,四氯乙烯,四氯乙烯,테트라클로로에틸렌,0.015,1,0,0,0,0
