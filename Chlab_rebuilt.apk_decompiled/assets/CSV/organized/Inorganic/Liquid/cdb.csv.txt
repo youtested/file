@@ -1,0 +1,45 @@
+H2O,Liquid,0,1,Water,H2O,H2O,0.917,1,0.001,18.02,0,0,100,4120,0xFFFFFF,1,0xFFFFFF,0.1,0xFFFFFF,0,0xFFFFFF,0,0.5,0.15,水,水,水,물,0,0,0,0,0,3
+Litmus,Liquid,4,1,Litmus,Litmus,Litmus,1,1,0.001,18,100,0,200,4000,0xFFFFFF,1,0xFFFFFF,0.12,0x9933CC,0,0xFFFFFF,0.06,0.5,0.15,リトマス,石蕊,石蕊,리트머스,0,0,0,0,0,3
+Br2,Liquid,0,1,Bromine,Br2,Br2,2,3.1,0.001,159.8,3.38,-7.2,58.8,947.3,0x8B4513,1,0x8B4513,0.7,0x8B4513,0.3,0x8B4513,0.7,0.5,0.15,臭素,溴,溴,브롬,0,0,0,0,0,1
+H2O2,Liquid,0,1,Hydrogen peroxide,H2O2,H2O2,1.71,1.463,0.001,34.01,99999,-0.43,150.2,1000,0xE8F4F8,0.1,0xE8F4F8,0.12,0xFFFFFF,0,0xFFFFFF,0,0.5,0.15,過酸化水素,过氧化氢,過氧化氫,과산화수소,0,0,0,0,0,1
+SO3,Liquid,4,1,Sulfur trioxide,SO3,SO3,2,1.92,0.0012,80.07,0,16.9,45,607.1,0xF8F8F8,1,0xF8F8F8,0.12,0xFFFFFF,0,0xFFFFFF,0,0.5,0.15,三酸化硫黄,三氧化硫,三氧化硫,삼산화황,0,0,0,0,0,1
+HNO3,Solution,4,1,Nitric acid,HNO3,HNO3,2.165,1.097,0.0698,63.01,99999,-42,83,146,0xFFFEF5,1,0xFFFEF5,0.12,0xFFFFFF,0,0xFFFFFF,0,0.5,0.15,硝酸,硝酸,硝酸,질산,0,0,0,1,0,1
+H2SO3,Liquid,4,1,Sulfurous acid,H2SO3,H2SO3,2,1.84,0.001,82.07,99999,10,337,1420,0xF8F8F8,1,0xF8F8F8,0.12,0xFFFFFF,0,0xFFFFFF,0.06,0.5,0.15,亜硫酸,亚硫酸,亞硫酸,아황산,10,0,0,0,1.4100E-02,1
+H2SO4,Solution,4,1,Sulfuric acid,H2SO4,H2SO4,2,1.84,0.001,98.08,99999,10,337,1420,0xFEFCF5,1,0xFEFCF5,0.12,0xFFFFFF,0,0xFFFFFF,0.06,0.5,0.15,硫酸,硫酸,硫酸,황산,3000,0,0,2,0,1
+HCl,Solution,4,1,Hydrogen chloride,HCl,HCl,2,1,0.00149,36.46,720,-112,85,600,0xFEFEF0,1,0xFEFEF0,0.12,0xFFFFFF,0,0xFFFFFF,0,0.5,0.15,塩化水素,盐酸,鹽酸,염화수소,0,0,0,1,0,1
+HF,Solution,4,1,Hydrogen fluoride,HF,HF,2,0.99,0.0015,20.01,99999,-83.6,1091,1023.41,0xFDFEFF,1,0xFDFEFF,0.12,0xFFFFFF,0,0xFFFFFF,0,0.5,0.15,フッ化水素,氟化氢,氟化氫,플루오르화 수소,0,0,0,0,3.50000E-04,1
+Hg,Liquid,0,1,Mercury,Hg,Hg,2,13.534,0.001,200.6,0,-38.83,356.73,139.5,0xC0C0C0,1,0xE8E8E8,0.9,0xFFFFFF,0,0xFFFFFF,0,0.5,0.15,マーキュリー,水银,水銀,수은,0,0,0,0,0,1
+Green,Liquid,0,1,Green,Green,Green,1.9,1.2,1.1,100,100,0,140,1000,0xF0F0F0,0.3,0xA5D455,0.9,0xF0F0F0,0,0,0,0.5,0.15,緑,绿色,綠色,녹색,0,0,0,0,0,1
+Mint,Liquid,0,1,Mint,Mint,Mint,1.9,1.2,1.1,100,0,0,140,1000,0xF0F0F0,0.3,0x5AE2C6,0.9,0xF0F0F0,0,0,0,0.5,0.15,ミント,薄荷色,薄荷色,박하,0,0,0,0,0,1
+NH4OH,Liquid,0,1,Ammonium hydroxide,NH3,NH4OH,0.910,0.6819,0.00073,35.04,999999,-57.50,37.70,900,0xFFFFFF,0.5,0xFFFFFF,0.12,0xFFFFFF,0,0xFFFFFF,0,0.5,0.15,アンモニア,氨,氨,암모니아,0,0,0,0,0,1
+Blue,Liquid,0,1,Blue,Blue,Blue,1.9,2,1.1,100,0,0,140,1000,0xF0F0F0,0.3,0x66CCFF,0.9,0xF0F0F0,0,0,0,0.5,0.15,青,蓝色,藍色,푸른,0,0,0,0,0,1
+Purple,Liquid,0,1,Purple,Purple,Purple,1.9,1.5,1.1,100,0,0,140,1000,0xF0F0F0,0.3,0x9047B2,0.9,0xF0F0F0,0,0,0,0.5,0.15,パープル,紫色,紫色,보라색,0,0,0,0,0,1
+Yellow,Liquid,0,1,Yellow,Yellow,Yellow,1.9,1.2,1.1,100,0,0,140,1000,0xF0F0F0,0.3,0xC5A14E,0.9,0xF0F0F0,0,0,0,0.5,0.15,黄,黄色,黃色,황색,0,0,0,0,0,1
+White,Liquid,0,1,White,White,White,1.2,2,1.1,100,0,0,140,1000,0xF0F0F0,0.3,0xFFFFFF,0.9,0xF0F0F0,0,0,0,0.5,0.15,白,白色,白色,흰,0,0,0,0,0,1
+Orange,Liquid,0,1,Orange,Orange,Orange,1.2,2,1.1,100,0,0,140,1000,0xF0F0F0,0.3,0xFF8710,0.9,0xF0F0F0,0,0,0,0.5,0.15,オレンジ,橘色,橘色,오렌지,0,0,0,0,0,1Na2CO3
+HCl,Solution,4,1,Hydrochloric acid,HCl,HCl,1.18,1,0.001,36.46,100,-114,85,4120,0xFEFEF0,1,0xFEFEF0,0.3,0xFFFFFF,0,0xFFFFFF,0,0.5,0.15,塩酸,盐酸,鹽酸,염산,0,0,0,0,0,3
+H2SO4,Solution,4,1,Sulfuric acid,H2SO4,H2SO4,1.84,1,0.001,98.08,100,10,337,4140,0xFEFCF5,1,0xFEFCF5,0.3,0xFFFFFF,0,0xFFFFFF,0,0.5,0.15,硫酸,硫酸,硫酸,황산,0,0,0,0,0,3
+HNO3,Solution,4,1,Nitric acid,HNO3,HNO3,1.51,1,0.001,63.01,100,-42,83,440,0xFFFEF5,1,0xFFFEF5,0.3,0xFFFFFF,0,0xFFFFFF,0,0.5,0.15,硝酸,硝酸,硝酸,질산,0,0,0,0,0,3
+H3PO4,Solution,4,1,Phosphoric acid,H3PO4,H3PO4,1.88,1,0.001,98,100,-300,-200,235,0xFEFDF8,1,0xFEFDF8,1,0xFFFFFF,0,0xFFFFFF,0,0.5,0.15,磷酸,磷酸,磷酸,인산,0,0,0,0,0,3
+Hg,Liquid,0,1,Mercury,Hg,Hg,13.53,1,0.001,200.59,0,-39,357,235,0xC0C0C0,1,0xC0C0C0,0.9,0xFFFFFF,0,0xFFFFFF,0,0.5,0.15,水銀,汞,汞,수은,0,0,0,0,0,2
+Br2,Liquid,0,1,Bromine,Br2,Br2,3.1,1,0.001,159.81,0,-7,59,235,0x8B4513,1,0x8B4513,0.5,0x8B4513,0.3,0x8B4513,0.7,0.5,0.15,臭素,溴,溴,브로민,0,0,0,0,0,3
+H2O2,Liquid,4,1,Hydrogen peroxide,H2O2,H2O2,1.45,1,0.001,34.01,100,-0.4,150,4120,0xE8F4F8,1,0xE8F4F8,0.3,0xFFFFFF,0,0xFFFFFF,0,0.5,0.15,過酸化水素,过氧化氢,過氧化氫,과산화수소,0,0,0,0,0,3
+Perchloric acid,Liquid,Liquid,1,Perchloric acid,Perchloric acid,Perchloric acid,1.768,1.768,1.768,100.46,200,-19,203,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,HClO4,高氯酸,高氯酸,과염소산,200,1,1,0,0,0
+Chloric acid,Liquid,Liquid,1,Chloric acid,Chloric acid,Chloric acid,1.11,1.11,1.11,84.46,100,10,110,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,HClO3,氯酸,氯酸,염소산,100,1,1,0,0,0
+Hypochlorous acid,Liquid,Liquid,1,Hypochlorous acid,Hypochlorous acid,Hypochlorous acid,1.1,1.1,1.1,52.46,100,-20,100,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,HClO,次氯酸,次氯酸,차아염소산,100,1,1,0,0,0
+Nitrous acid,Liquid,Liquid,1,Nitrous acid,Nitrous acid,Nitrous acid,1.0,1.0,1.0,47.01,100,-20,100,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,HNO2,亚硝酸,亞硝酸,아질산,100,1,1,0,0,0
+Carbonic acid,Liquid,Liquid,1,Carbonic acid,Carbonic acid,Carbonic acid,1.0,1.0,1.0,62.03,100,-20,100,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,H2CO3,碳酸,碳酸,탄산,100,1,1,0,0,0
+Bromic acid,Liquid,Liquid,1,Bromic acid,Bromic acid,Bromic acid,1.5,1.5,1.5,128.91,100,-20,130,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,HBrO3,溴酸,溴酸,브롬산,100,1,1,0,0,0
+Hydroiodic acid,Liquid,Liquid,1,Hydroiodic acid,Hydroiodic acid,Hydroiodic acid,1.7,1.7,1.7,127.91,100,-50,127,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,HI,氢碘酸,氫碘酸,요오드화수소,100,1,1,0,0,0
+Thionyl chloride,Liquid,Liquid,1,Thionyl chloride,Thionyl chloride,Thionyl chloride,1.64,1.64,1.64,118.97,0.1,-104,75,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,塩化チオニル,亚磺酰氯,亞磺酰氯,티오닐클로리드,0.1,1,0,0,0,0
+Sulfuryl chloride,Liquid,Liquid,1,Sulfuryl chloride,Sulfuryl chloride,Sulfuryl chloride,1.68,1.68,1.68,134.97,0.1,-50,69,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,塩化スニ儿ル,磺酰氯,磺酰氯,설퍼릴클로리드,0.1,1,0,0,0,0
+Silicon tetrachloride,Liquid,Liquid,1,Silicon tetrachloride,Silicon tetrachloride,Silicon tetrachloride,1.48,1.48,1.48,169.9,0.001,-68,57.6,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,四塩化ケイ素,四氯化硅,四氯化矽,사염화규소,0.001,1,0,0,0,0
+Germanium tetrachloride,Liquid,Liquid,1,Germanium tetrachloride,Germanium tetrachloride,Germanium tetrachloride,1.88,1.88,1.88,214.42,0.001,-52,86.5,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,四塩化ゲルマニウム,四氯化锗,四氯化鍺,사염化저르마늄,0.001,1,0,0,0,0
+Titanium tetrachloride,Liquid,Liquid,1,Titanium tetrachloride,Titanium tetrachloride,Titanium tetrachloride,1.73,1.73,1.73,189.68,0.001,-24,136.5,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,四塩化チタン,四氯化钛,四氯化鈦,사염化타이타늄,0.001,1,0,0,0,0
+Chromyl chloride,Liquid,Liquid,1,Chromyl chloride,Chromyl chloride,Chromyl chloride,1.92,1.92,1.92,154.9,0.1,-96,117,0,0x990000,1,0x990000,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,塩化クロミル,氯铬酰,氯鉻酰,크로밀클로리드,0.1,1,0,0,0,0
+Antimony(V) chloride,Liquid,Liquid,1,Antimony(V) chloride,SbCl5,SbCl5,2.39,2.39,2.39,228.11,100,2.8,79,140,0xE0E0E0,1,0xE0E0E0,1,0xE0E0E0,1,0xE0E0E0,1,0.4,0.3,アンチモン(V)塩化物,五氯化锑,五氯化銻,안티모니(V)클로라이드,0,0,1,1,0
+Tin(IV) chloride,Liquid,Liquid,1,Tin(IV) chloride,SnCl4,SnCl4,2.23,2.23,2.23,260.53,100,-33,114,140,0xE0E0E0,1,0xE0E0E0,1,0xE0E0E0,1,0xE0E0E0,1,0.4,0.3,スズ(IV)塩化物,四氯化锡,四氯化錫,주석(IV)클로라이드,0,0,1,1,0
+Nitric acid,Liquid,Liquid,1,Nitric acid,HNO3,HNO3,1.51,1.51,1.51,63.01,100,-42,83,140,0xE0E0E0,1,0xE0E0E0,1,0xE0E0E0,1,0xE0E0E0,1,0.4,0.3,硝酸,硝酸,硝酸,질산,0,0,1,1,0
+Hydrochlorous acid,Liquid,Liquid,1,Hydrochlorous acid,HOCl,HOCl,1.31,1.31,1.31,52.46,100,-20,100,140,0xE0E0E0,1,0xE0E0E0,1,0xE0E0E0,1,0xE0E0E0,1,0.4,0.3,亜塩素酸,次氯酸,次氯酸,차아염소산,0,0,1,1,0
+Boron tribromide,Solid,Liquid,1,BBr3,BBr3,BBr3,2.65,46,250.52,0.001,46,91.3,0.1,0,0xE0E0E0,1,0xE0E0E0,1,0xE0E0E0,1,0xE0E0E0,1,0.3,BBr3,BBr3,BBr3,BBr3,0.001,1,0,0,0,0,
+Lead(IV) chloride,Solid,Solid,1,PbCl4,PbCl4,PbCl4,3.18,3.18,3.18,349,0.1,-15,-15,0,0xE0E0E0,1,0xE0E0E0,1,0xE0E0E0,1,0xE0E0E0,1,0.4,0.3,PbCl4,PbCl4,PbCl4,PbCl4,0.1,1,0,1,0,0
