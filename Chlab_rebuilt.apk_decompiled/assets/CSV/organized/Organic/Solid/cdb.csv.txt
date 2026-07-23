@@ -1,0 +1,14 @@
+NaC2H3O2,Organic,Solid,1,Sodium acetate,NaC2H3O2,NaC2H3O2,1.528,1,0.001,82.03,123,324,881.4,966.035,0xFFFFFF,1,0xFFFFFF,0.9,0xFFFFFF,0,0xFFFFFF,0.06,0.5,0.15,酢酸ナトリウム,醋酸钠,醋酸鈉,아세트산 나트륨,0,0,0,0,0,1
+Hexane,Organic,Solid,1,Hexane,Hexane,Hexane,2.97,1.891,0.659,86.18,0.001,2.7,69,0,0xE8F0F5,1,0xE8F0F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,ヘキサン,己烷,己烷,핵산,0.001,1,0,0,0,0
+Heptane,Organic,Solid,1,Heptane,Heptane,Heptane,3.19,1.984,0.684,100.2,0.0002,90.5,98.4,0,0xE8F0F5,1,0xE8F0F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,ヘプタン,庚烷,庚烷,헵탄,0.0002,1,0,0,0,0
+Octane,Organic,Solid,1,Octane,Octane,Octane,3.51,2.105,0.703,114.23,0.00006,57,125.7,0,0xE8F0F5,1,0xE8F0F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,オクタール,辛烷,辛烷,옥탄,0.00006,1,0,0,0,0
+Nonane,Organic,Solid,1,Nonane,Nonane,Nonane,3.84,2.22,0.718,128.25,0.00002,-64,151,0,0xE8F0F5,1,0xE8F0F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,ノナン,壬烷,壬烷,노난,0.00002,1,0,0,0,0
+Decane,Organic,Solid,1,Decane,Decane,Decane,4.19,2.34,0.73,142.29,0.00001,29.7,174.1,0,0xE8F0F5,1,0xE8F0F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,デカン,癸烷,癸烷,데kan,0.00001,1,0,0,0,0
+Acetone,Organic,Solid,1,Acetone,Acetone,Acetone,0.786,0.786,0.786,58.08,100,-94.7,56.1,0,0xF5F5F5,1,0xF5F5F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,アセトン,丙酮,丙酮,아세톤,100,1,0,0,0,0
+Methyl ethyl ketone,Organic,Solid,1,Methyl ethyl ketone,Methyl ethyl ketone,Methyl ethyl ketone,0.805,0.805,0.805,72.11,27.4,-86.4,79.6,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,メチ儿エ儿ルケトン,丁酮,丁酮,메틸 에틸 케톤,27.4,1,0,0,0,0
+Caprylic acid,Organic,Solid,1,Caprylic acid,Caprylic acid,Caprylic acid,0.91,0.91,0.91,144.21,0.07,16.3,239,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,カプリル酸,辛酸,辛酸,카프릴산,0.07,1,1,0,0,0
+Propyl acetate,Organic,Solid,1,Propyl acetate,Propyl acetate,Propyl acetate,0.888,0.888,0.888,102.13,1.9,-92.5,101.5,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,酶酸プロビル,乙酸丙酯,乙酸丙酯,프로필 아세테이트,1.9,1,0,0,0,0
+Butyl acetate,Organic,Solid,1,Butyl acetate,Butyl acetate,Butyl acetate,0.882,0.882,0.882,116.16,0.7,-77.9,126.5,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,酶酸ブチル,乙酸丁酯,乙酸丁酯,부틸 아세테이트,0.7,1,0,0,0,0
+Diethylamine,Organic,Solid,1,Diethylamine,Diethylamine,Diethylamine,0.707,-50,-49,73.14,100,-50,55.5,0,0xF8F8F8,1,0xF8F8F8,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,ジェチルアミン,二乙胺,二乙胺,디에틸아민,100,1,1,0,0,0
+Formamide,Organic,Solid,1,Formamide,Formamide,Formamide,1.134,1.134,1.134,45.04,100,2.5,210.5,0,0xF8FAFA,1,0xF8FAFA,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,ホルムアミド,甲酰胺,甲酰胺,포름아마이드,100,1,1,0,0,0
+Acetonitrile,Organic,Solid,1,Acetonitrile,Acetonitrile,Acetonitrile,0.786,0.786,0.786,41.05,100,-44,81.6,0,0xF8FAFA,1,0xF8FAFA,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,アセトニトリ儿,乙腈,乙腈,아세토니트릴,100,1,0,0,0,0
