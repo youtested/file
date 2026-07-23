@@ -1,0 +1,86 @@
+Name,Type,Tag,Access,AName,FName,HTMLName,DS1,DS2,DS3,MM,Solu,MP,BP,HC,Col1,Alp1,Col2,Alp2,Col3,Alp3,Col4,Alp4,Unk1,Unk2,NameJP,NameZH,NameTW,NameKR,pH1,pH2,pH3,pH4,pH5,Ptn1,BaseState
+NaC2H3O2,Organic,Solid,1,Sodium acetate,NaC2H3O2,NaC2H3O2,1.528,1,0.001,82.03,123,324,881.4,966.035,0xFFFFFF,1,0xFFFFFF,0.9,0xFFFFFF,0,0xFFFFFF,0.06,0.5,0.15,酢酸ナトリウム,醋酸钠,醋酸鈉,아세트산 나트륨,0,0,0,0,0,1,1
+Hexane,Organic,Solid,1,Hexane,Hexane,Hexane,2.97,1.891,0.659,86.18,0.001,2.7,69,0,0xE8F0F5,1,0xE8F0F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,ヘキサン,己烷,己烷,핵산,0.001,1,0,0,0,0,1
+Heptane,Organic,Solid,1,Heptane,Heptane,Heptane,3.19,1.984,0.684,100.2,0.0002,90.5,98.4,0,0xE8F0F5,1,0xE8F0F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,ヘプタン,庚烷,庚烷,헵탄,0.0002,1,0,0,0,0,1
+Octane,Organic,Solid,1,Octane,Octane,Octane,3.51,2.105,0.703,114.23,0.00006,57,125.7,0,0xE8F0F5,1,0xE8F0F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,オクタール,辛烷,辛烷,옥탄,0.00006,1,0,0,0,0,1
+Nonane,Organic,Solid,1,Nonane,Nonane,Nonane,3.84,2.22,0.718,128.25,0.00002,-64,151,0,0xE8F0F5,1,0xE8F0F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,ノナン,壬烷,壬烷,노난,0.00002,1,0,0,0,0,1
+Decane,Organic,Solid,1,Decane,Decane,Decane,4.19,2.34,0.73,142.29,0.00001,29.7,174.1,0,0xE8F0F5,1,0xE8F0F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,デカン,癸烷,癸烷,데kan,0.00001,1,0,0,0,0,1
+Acetone,Organic,Solid,1,Acetone,Acetone,Acetone,0.786,0.786,0.786,58.08,100,-94.7,56.1,0,0xF5F5F5,1,0xF5F5F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,アセトン,丙酮,丙酮,아세톤,100,1,0,0,0,0,1
+Methyl ethyl ketone,Organic,Solid,1,Methyl ethyl ketone,Methyl ethyl ketone,Methyl ethyl ketone,0.805,0.805,0.805,72.11,27.4,-86.4,79.6,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,メチ儿エ儿ルケトン,丁酮,丁酮,메틸 에틸 케톤,27.4,1,0,0,0,0,1
+Caprylic acid,Organic,Solid,1,Caprylic acid,Caprylic acid,Caprylic acid,0.91,0.91,0.91,144.21,0.07,16.3,239,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,カプリル酸,辛酸,辛酸,카프릴산,0.07,1,1,0,0,0,1
+Propyl acetate,Organic,Solid,1,Propyl acetate,Propyl acetate,Propyl acetate,0.888,0.888,0.888,102.13,1.9,-92.5,101.5,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,酶酸プロビル,乙酸丙酯,乙酸丙酯,프로필 아세테이트,1.9,1,0,0,0,0,1
+Butyl acetate,Organic,Solid,1,Butyl acetate,Butyl acetate,Butyl acetate,0.882,0.882,0.882,116.16,0.7,-77.9,126.5,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,酶酸ブチル,乙酸丁酯,乙酸丁酯,부틸 아세테이트,0.7,1,0,0,0,0,1
+Diethylamine,Organic,Solid,1,Diethylamine,Diethylamine,Diethylamine,0.707,-50,-49,73.14,100,-50,55.5,0,0xF8F8F8,1,0xF8F8F8,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,ジェチルアミン,二乙胺,二乙胺,디에틸아민,100,1,1,0,0,0,1
+Formamide,Organic,Solid,1,Formamide,Formamide,Formamide,1.134,1.134,1.134,45.04,100,2.5,210.5,0,0xF8FAFA,1,0xF8FAFA,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,ホルムアミド,甲酰胺,甲酰胺,포름아마이드,100,1,1,0,0,0,1
+Acetonitrile,Organic,Solid,1,Acetonitrile,Acetonitrile,Acetonitrile,0.786,0.786,0.786,41.05,100,-44,81.6,0,0xF8FAFA,1,0xF8FAFA,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,アセトニトリ儿,乙腈,乙腈,아세토니트릴,100,1,0,0,0,0,1
+Methanol,Organic,Organic,1,Methanol,Methanol,Methanol,0.791,0.793,0.792,32.04,100,-97.6,64.7,0,0xF8FAFA,1,0xF8FAFA,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,メタノール,甲醇,甲醇,메탄올,100,1,1,0,0,0,2
+Ethanol,Organic,Organic,1,Ethanol,Ethanol,Ethanol,0.789,0.789,0.789,46.07,100,-114.1,78.4,0,0xF8FAFA,1,0xF8FAFA,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,エチルアルコール,乙醇,乙醇,에탄올,100,1,1,0,0,0,2
+1-Propanol,Organic,Organic,1,1-Propanol,1-Propanol,1-Propanol,0.804,0.804,0.8,60.1,100,-127,97.2,0,0xE0F0FF,0.3,0xE0F0FF,0.3,0xE0F0FF,0.3,0xE0F0FF,0.3,0.4,0.3,1-プロパノール,1-丙醇,1-丙醇,1-프로판올,100,1,1,0,0,0,2
+2-Propanol,Organic,Organic,1,2-Propanol,2-Propanol,2-Propanol,0.786,0.785,0.785,60.1,100,-89.5,82.4,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,2-プロパノール,2-丙醇,2-丙醇,2-프로판올,100,1,1,0,0,0,2
+1-Butanol,Organic,Organic,1,1-Butanol,1-Butanol,1-Butanol,0.81,0.81,0.81,74.12,100,-89.5,117.7,0,0xE0F0FF,0.3,0xE0F0FF,0.3,0xE0F0FF,0.3,0xE0F0FF,0.3,0.4,0.3,1-ブタanol,1-丁醇,1-丁醇,1-부탄올,100,1,1,0,0,0,2
+2-Butanol,Organic,Organic,1,2-Butanol,2-Butanol,2-Butanol,0.808,0.808,0.808,74.12,100,-114.7,99.5,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,2-ブタanol,2-丁醇,2-丁醇,2-부탄올,100,1,1,0,0,0,2
+1-Pentanol,Organic,Organic,1,1-Pentanol,1-Pentanol,1-Pentanol,0.814,0.814,0.814,88.15,22,-78.9,138,0,0xE0F0FF,0.3,0xE0F0FF,0.3,0xE0F0FF,0.3,0xE0F0FF,0.3,0.4,0.3,1-ペンタanol,1-戊醇,1-戊醇,1-펜탄올,22,1,1,0,0,0,2
+1-Hexanol,Organic,Organic,1,1-Hexanol,1-Hexanol,1-Hexanol,0.819,0.819,0.819,102.17,6.3,-46.7,157,0,0xE0F0FF,0.3,0xE0F0FF,0.3,0xE0F0FF,0.3,0xE0F0FF,0.3,0.4,0.3,1-ヘキサンol,1-己醇,1-己醇,1-헥산올,6.3,1,1,0,0,0,2
+1-Heptanol,Organic,Organic,1,1-Heptanol,1-Heptanol,1-Heptanol,0.822,0.822,0.822,116.2,1.7,-34.1,176,0,0xE0F0FF,0.3,0xE0F0FF,0.3,0xE0F0FF,0.3,0xE0F0FF,0.3,0.4,0.3,1-ヘプタanol,1-庚醇,1-庚醇,1-헵탄올,1.7,1,1,0,0,0,2
+1-Octanol,Organic,Organic,1,1-Octanol,1-Octanol,1-Octanol,0.827,0.827,0.827,130.23,0.3,-16.3,195,0,0xE0F0FF,0.3,0xE0F0FF,0.3,0xE0F0FF,0.3,0xE0F0FF,0.3,0.4,0.3,1-オクタanol,1-辛醇,1-辛醇,1-옥탄올,0.3,1,1,0,0,0,2
+Propylene glycol,Organic,Organic,1,Propylene glycol,Propylene glycol,Propylene glycol,1.036,1.036,1.036,76.09,100,-59,188.2,0,0xF8FAFA,1,0xF8FAFA,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,プロパレングリコール,丙二醇,丙二醇,프로필렌 글리콜,100,1,1,0,0,0,2
+Glycerol,Organic,Organic,1,Glycerol,Glycerol,Glycerol,1.261,1.261,1.261,92.09,100,17.8,290,0,0xF8FAFA,1,0xF8FAFA,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,グリセロール,甘油,甘油,글리세롤,100,1,1,0,0,0,2
+Benzene,Organic,Organic,1,Benzene,Benzene,Benzene,0.879,0.879,0.879,78.11,0.18,5.5,80.1,0,0xF5F5F5,1,0xF5F5F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,ベンゼン,苯,苯,벤젠,0.18,1,0,0,0,0,2
+Toluene,Organic,Organic,1,Toluene,Toluene,Toluene,0.867,0.867,0.867,92.14,0.052,-95,110.6,0,0xF0F4F8,1,0xF0F4F8,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,トルエン,甲苯,甲苯,톨루엔,0.052,1,0,0,0,0,2
+Ethylbenzene,Organic,Organic,1,Ethylbenzene,Ethylbenzene,Ethylbenzene,0.867,0.867,0.867,106.16,0.015,-95,136,0,0xF0F4F8,1,0xF0F4F8,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,エチルベンゼン,乙苯,乙苯,에틸벤젠,0.015,1,0,0,0,0,2
+Styrene,Organic,Organic,1,Styrene,Styrene,Styrene,0.906,0.906,0.906,104.15,0.03,-30.6,145,0,0xF0F4F8,1,0xF0F4F8,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,ス伵レン,苯乙烯,苯乙烯,스타이렌,0.03,1,0,0,0,0,2
+Chloroform,Organic,Organic,1,Chloroform,Chloroform,Chloroform,1.483,1.483,1.483,119.38,0.8,-63.5,60.5,0,0xF5F5F5,1,0xF5F5F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,クロロホルム,三氯甲烷,三氯甲烷,클로로포름,0.8,1,0,0,0,0,2
+Dichloromethane,Organic,Organic,1,Dichloromethane,Dichloromethane,Dichloromethane,1.327,1.327,1.327,84.93,1.3,-97,40,0,0xF0F4F8,1,0xF0F4F8,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,ジクロロメタ儿,二氯甲烷,二氯甲烷,디클로로메탄,1.3,1,0,0,0,0,2
+Trichloroethylene,Organic,Organic,1,Trichloroethylene,Trichloroethylene,Trichloroethylene,1.462,1.462,1.462,131.4,0.11,-84.8,87.2,0,0xF5F5F5,1,0xF5F5F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,トリクロロエチレン,三氯乙烯,三氯乙烯,트리클로로에틸렌,0.11,1,0,0,0,0,2
+Tetrachloroethylene,Organic,Organic,1,Tetrachloroethylene,Tetrachloroethylene,Tetrachloroethylene,1.623,1.623,1.623,165.83,0.015,-22.3,121.1,0,0xF5F5F5,1,0xF5F5F5,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,テトラクロロエチレン,四氯乙烯,四氯乙烯,테트라클로로에틸렌,0.015,1,0,0,0,0,2
+CH4,Organic,Gas,1,CH4,CH4,CH4,0.657,0.554,0.415,16.04,3.5,-182.5,-161.5,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,メタン,甲烷,甲烷,메탄,3.5,1,0,0,0,0,3
+C2H6,Organic,Gas,1,C2H6,C2H6,C2H6,1.356,1.069,0.544,30.07,5.9,-183.3,-88.6,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,エタン,乙烷,乙烷,에탄,5.9,1,0,0,0,0,3
+C3H8,Organic,Gas,1,C3H8,C3H8,C3H8,2.01,1.549,0.493,44.09,6.5,-187.7,-42.1,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,プロパン,丙烷,丙烷,프로판,6.5,1,0,0,0,0,3
+C4H10,Organic,Gas,1,C4H10,C4H10,C4H10,2.71,1.963,0.573,58.12,6.1,-138.4,-0.5,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,ブタン,丁烷,丁烷,부탄,6.1,1,0,0,0,0,3
+C2H4,Organic,Gas,1,C2H4,C2H4,C2H4,1.178,0.568,-169.2,28.05,3.4,-169.4,-103.7,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,エチレン,乙烯,乙烯,에틸렌,3.4,1,0,0,0,0,3
+C3H6,Organic,Gas,1,C3H6,C3H6,C3H6,1.946,0.493,-185.2,42.08,4.4,-185.2,-47.6,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,プロパン,丙烯,丙烯,프로필렌,4.4,1,0,0,0,0,3
+C4H8,Organic,Gas,1,C4H8,C4H8,C4H8,2.59,0.588,-185.4,56.11,4.8,-185.4,-6.3,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,1-ブテン,1-丁烯,1-丁烯,1-부텐,4.8,1,0,0,0,0,3
+1-Pentene,Organic,Gas,1,1-Pentene,1-Pentene,1-Pentene,2.97,0.64,-165.2,70.13,6.2,-165.2,30,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,1-ペンテン,1-戊烯,1-戊烯,1-펜텐,6.2,1,0,0,0,0,3
+1-Hexene,Organic,Gas,1,1-Hexene,1-Hexene,1-Hexene,3.39,0.673,-139.8,84.16,4.5,-139.8,63.4,0,0xE0F0FF,1,0xE0F0FF,1,0xE0F0FF,0,0xE0F0FF,1,0.4,0.3,1-ヘキセン,1-己烯,1-己烯,1-헥센,4.5,1,0,0,0,0,3
+C2H2,Organic,Gas,1,C2H2,C2H2,C2H2,0.906,-80.8,28.03,0.13,-80.8,-84,0.1,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.3,アセチレン,乙炔,乙炔,아세틸렌,0.13,1,0,0,0,0,,3
+CH2O,Organic,Gas,1,CH2O,CH2O,CH2O,0.815,-92,30.03,40,-92,-19.1,0.1,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.3,ホルムアルデヒド,甲醛,甲醛,포름알데히드,40,1,0,0,0,0,,3
+CH3CHO,Organic,Gas,1,CH3CHO,CH3CHO,CH3CHO,0.788,-121,44.05,100,-123.4,20.2,0.1,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.3,アセトアルデヒド,乙醛,乙醛,아세트알데히드,100,1,0,0,0,0,,3
+C2H5CHO,Organic,Gas,1,C2H5CHO,C2H5CHO,C2H5CHO,0.866,-81,58.08,16,48,-80,0.1,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.3,プロピオンアルデヒド,丙醛,丙醛,프로피온알데히드,16,1,0,0,0,0,,3
+C3H7CHO,Organic,Gas,1,C3H7CHO,C3H7CHO,C3H7CHO,0.817,-99,72.11,3.7,-96,75,0.1,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.3,酪酸アルデヒド,丁醛,丁醛,부틸알데히드,3.7,1,0,0,0,0,,3
+CH3OCH3,Organic,Gas,1,CH3OCH3,CH3OCH3,CH3OCH3,2.109,0.66,-141.5,46.07,35.1,-141.5,-24.8,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,ジメチ儿エーテ儿,二甲醚,二甲醚,디메틸 에테르,35.1,1,0,0,0,0,3
+CH3NH2,Organic,Gas,1,CH3NH2,CH3NH2,CH3NH2,0.699,-93.5,31.06,108,-93.5,-6.4,0.1,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.3,メチ儿アミン,甲胺,甲胺,메틸아민,108,1,1,0,0,0,,3
+C2H5NH2,Organic,Gas,1,C2H5NH2,C2H5NH2,C2H5NH2,0.689,-81,45.08,100,-81,16.6,0.1,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.3,エチルアミン,乙胺,乙胺,에틸아민,100,1,1,0,0,0,,3
+(CH3)2NH,Organic,Gas,1,(CH3)2NH,(CH3)2NH,(CH3)2NH,0.68,-92.2,45.08,354,-92.2,7,0.1,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.3,ジメチ儿アミン,二甲胺,二甲胺,디메틸아민,354,1,1,0,0,0,,3
+(CH3)3N,Organic,Gas,1,(CH3)3N,(CH3)3N,(CH3)3N,0.627,-117.2,59.11,89.3,-117.2,3,0.1,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.3,トリメチ儿アミン,三甲胺,三甲胺,트리메틸아민,89.3,1,1,0,0,0,,3
+(C2H5)3N,Organic,Gas,1,(C2H5)3N,(C2H5)3N,(C2H5)3N,0.728,-114.7,101.19,16.9,-114.7,89,0.1,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.3,トリエチルアミン,三乙胺,三乙胺,트리에틸아민,16.9,1,1,0,0,0,,3
+2-Dichloroethane,Organic,Gas,0,2-Dichloroethane,2-Dichloroethane,2-Dichloroethane,1,2-Dichloroethane,1,2-Dichloroethane,1.245,1.245,1.245,1,0xFFFFFF,0.6,0xFFFFFF,0.6,0xFFFFFF,0.6,0xFFFFFF,0.6,None,1,None,1,0.4,0.3,1,2-ジクロロエタン,1,2-二氯乙烷,1,2-二氯乙烷,3
+CCl3F,Organic,Gas,1,CCl3F,CCl3F,CCl3F,1.485,-111,137.37,0.11,-111,23.7,0.1,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.3,CCl3F,三氯氟甲烷,三氯氟甲烷,트리클로로플루오로메탄,0.11,1,0,0,0,0,,3
+CCl2F2,Organic,Gas,1,CCl2F2,CCl2F2,CCl2F2,1.311,-158,120.91,0.028,-158,-29.8,0.1,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.3,CCl2F2,二氯二氟甲烷,二氯二氟甲烷,디클로로디플루오로메탄,0.028,1,0,0,0,0,,3
+C2Cl3F3,Organic,Gas,1,C2Cl3F3,C2Cl3F3,C2Cl3F3,1.575,-35,187.38,0.05,-35,48,0.1,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.3,C2Cl3F3,三氯三氟乙烷,三氯三氟乙烷,트리클로로트리플루오로에탄,0.05,1,0,0,0,0,,3
+CBrF3,Organic,Gas,1,CBrF3,CBrF3,CBrF3,1.57,-177,148.91,0.001,-177,-57.8,0.1,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.3,CBrF3,溴三氟甲烷,溴三氟甲烷,브로모트리플루오로메탄,0.001,1,0,0,0,0,,3
+CHClF2,Organic,Gas,1,CHClF2,CHClF2,CHClF2,1.213,-160,86.47,0.3,-160,-40.8,0.1,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.3,CHClF2,氯二氟甲烷,氯二氟甲烷,클로로디플루오로메탄,0.3,1,0,0,0,0,,3
+C3H4,Organic,Gas,1,C3H4,C3H4,C3H4,0.650,0.650,0.001639,40.07,4.0,-136.8,-34.5,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,Propadiene,Propadiene,Propadiene,Propadiene,4.0,1,0,0,0,0,3
+C4H6,Organic,Gas,1,C4H6,C4H6,C4H6,0.620,0.620,0.002212,54.09,5.0,-125.7,8.0,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,1-Butyne,1-Butyne,1-Butyne,1-Butyne,5.0,1,0,0,0,0,3
+C3H6,Organic,Gas,1,C3H6,C3H6,C3H6,0.650,0.650,0.001721,42.08,4.5,-127.9,-33.2,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,Cyclopropane,Cyclopropane,Cyclopropane,Cyclopropane,4.5,1,0,0,0,0,3
+C4H8,Organic,Gas,1,C4H8,C4H8,C4H8,0.700,0.700,0.002295,56.11,4.9,-90.0,12.5,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,Cyclobutane,Cyclobutane,Cyclobutane,Cyclobutane,4.9,1,0,0,0,0,3
+C2H4O,Organic,Gas,1,C2H4O,C2H4O,C2H4O,0.880,0.880,0.001802,44.05,80.0,-112.0,10.7,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,Ethylene oxide,Ethylene oxide,Ethylene oxide,Ethylene oxide,80.0,1,0,0,0,0,3
+C3H8O,Organic,Gas,1,C3H8O,C3H8O,C3H8O,0.740,0.740,0.002458,60.10,60.0,-113.0,7.4,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,Methyl ethyl ether,Methyl ethyl ether,Methyl ethyl ether,Methyl ethyl ether,60.0,1,0,0,0,0,3
+C2H3Cl,Organic,Gas,1,C2H3Cl,C2H3Cl,C2H3Cl,0.910,0.910,0.002556,62.50,2.0,-153.7,-13.4,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,Vinyl chloride,Vinyl chloride,Vinyl chloride,Vinyl chloride,2.0,1,0,0,0,0,3
+CF4,Organic,Gas,1,CF4,CF4,CF4,1.030,1.030,0.003599,88.00,0.001,-183.6,-128.0,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,Tetrafluoromethane,Tetrafluoromethane,Tetrafluoromethane,Tetrafluoromethane,0.001,1,0,0,0,0,3
+C2F6,Organic,Gas,1,C2F6,C2F6,C2F6,1.700,1.700,0.005645,138.01,0.0005,-100.6,-78.2,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,Hexafluoroethane,Hexafluoroethane,Hexafluoroethane,Hexafluoroethane,0.0005,1,0,0,0,0,3
+C3F8,Organic,Gas,1,C3F8,C3F8,C3F8,1.800,1.800,0.007690,188.02,0.0003,-131.0,-36.8,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,Octafluoropropane,Octafluoropropane,Octafluoropropane,Octafluoropropane,0.0003,1,0,0,0,0,3
+CHF3,Organic,Gas,1,CHF3,CHF3,CHF3,1.100,1.100,0.002863,70.01,0.1,-136.0,-82.0,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,Trifluoromethane,Trifluoromethane,Trifluoromethane,Trifluoromethane,0.1,1,0,0,0,0,3
+C2HF5,Organic,Gas,1,C2HF5,C2HF5,C2HF5,1.400,1.400,0.004909,120.02,0.01,-118.0,-29.4,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,Pentafluoroethane,Pentafluoroethane,Pentafluoroethane,Pentafluoroethane,0.01,1,0,0,0,0,3
+C2H5Cl,Organic,Gas,1,C2H5Cl,C2H5Cl,C2H5Cl,0.920,0.920,0.002638,64.51,5.0,-138.7,12.3,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,Chloroethane,Chloroethane,Chloroethane,Chloroethane,5.0,1,0,0,0,0,3
+CHCl2F,Organic,Gas,1,CHCl2F,CHCl2F,CHCl2F,1.300,1.300,0.004209,102.92,0.2,-130.0,8.9,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,Dichlorofluoromethane,Dichlorofluoromethane,Dichlorofluoromethane,Dichlorofluoromethane,0.2,1,0,0,0,0,3
+CH3Br,Organic,Gas,1,CH3Br,CH3Br,CH3Br,1.700,1.700,0.003883,94.94,15.0,-91.6,3.6,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,Bromomethane,Bromomethane,Bromomethane,Bromomethane,15.0,1,0,0,0,0,3
+CH3Cl,Organic,Gas,1,CH3Cl,CH3Cl,CH3Cl,0.950,0.950,0.002065,50.49,6.0,-97.4,-24.2,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,Chloromethane,Chloromethane,Chloromethane,Chloromethane,6.0,1,0,0,0,0,3
+C4H8,Organic,Gas,1,C4H8,C4H8,C4H8,0.620,0.620,0.002295,56.11,0.5,-140.3,-6.9,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,Isobutene,Isobutene,Isobutene,Isobutene,0.5,1,0,0,0,0,3
+C4H6,Organic,Gas,1,C4H6,C4H6,C4H6,0.660,0.660,0.002212,54.09,0.5,-108.9,-4.4,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,1,3-Butadiene,1,3-Butadiene,1,3-Butadiene,1,3-Butadiene,0.5,1,0,0,0,0,3
+C3H4,Organic,Gas,1,C3H4,C3H4,C3H4,0.630,0.630,0.001639,40.07,0.5,-101.2,-23.2,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,Propyne,Propyne,Propyne,Propyne,0.5,1,0,0,0,0,3
+CH3F,Organic,Gas,1,CH3F,CH3F,CH3F,0.710,0.710,0.001392,34.03,0.1,-138.0,-78.4,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,Methyl fluoride,Methyl fluoride,Methyl fluoride,Methyl fluoride,0.1,1,0,0,0,0,3
+C2H4F2,Organic,Gas,1,C2H4F2,C2H4F2,C2H4F2,0.950,0.950,0.002701,66.05,0.1,-118.0,-24.9,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,1,1-Difluoroethane,1,1-Difluoroethane,1,1-Difluoroethane,1,1-Difluoroethane,0.1,1,0,0,0,0,3
+C2H3F3,Organic,Gas,1,C2H3F3,C2H3F3,C2H3F3,1.200,1.200,0.003437,84.04,0.01,-111.0,-47.6,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,1,1,1-Trifluoroethane,1,1,1-Trifluoroethane,1,1,1-Trifluoroethane,1,1,1-Trifluoroethane,0.01,1,0,0,0,0,3
+C2H2F4,Organic,Gas,1,C2H2F4,C2H2F4,C2H2F4,1.300,1.300,0.004173,102.03,0.1,-101.0,-26.1,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,1,1,1,2-Tetrafluoroethane,1,1,1,2-Tetrafluoroethane,1,1,1,2-Tetrafluoroethane,1,1,1,2-Tetrafluoroethane,0.1,1,0,0,0,0,3
+C4F10,Organic,Gas,1,C4F10,C4F10,C4F10,1.700,1.700,0.009735,238.02,0.0001,-128.0,-1.7,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,Perfluorobutane,Perfluorobutane,Perfluorobutane,Perfluorobutane,0.0001,1,0,0,0,0,3
+CH2F2,Organic,Gas,1,CH2F2,CH2F2,CH2F2,0.960,0.960,0.002128,52.02,0.1,-136.0,-52.0,0,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0xF0F0F0,0.6,0.4,0.3,Difluoromethane,Difluoromethane,Difluoromethane,Difluoromethane,0.1,1,0,0,0,0,3
