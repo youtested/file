@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Apache Flex SDK Build Configuration for Chemist.swf
+  This build file recompiles the decompiled ActionScript source code
+  into a working SWF file.
+  
+  Prerequisites:
+  - Apache Flex SDK 4.16.1+ (https://flex.apache.org)
+  - Java Development Kit (JDK) 8 or higher
+  - Set FLEX_HOME environment variable
+  
+  Usage:
+  ant -f build.xml all
+-->
+
+<project name="ChemistLab" default="compile" basedir=".">
+  
+  <!-- Project Configuration -->
+  <property name="project.name" value="ChemistLab" />
+  <property name="version" value="1.0.0" />
+  <property name="output.file" value="bin/Chemist.swf" />
+  <property name="main.class" value="cDomain" />
+  
+  <!-- Source and Build Directories -->
+  <property name="src.dir" value="Chlab_rebuilt.apk_decompiled/swf_decompiled/scripts" />
+  <property name="bin.dir" value="bin" />
+  <property name="build.dir" value="build" />
+  <property name="assets.dir" value="assets" />
+  
+  <!-- Flex SDK Properties -->
+  <property environment="env" />
+  <property name="flex.home" value="${env.FLEX_HOME}" />
+  
+  <!-- Check if Flex SDK is available -->
+  <available file="${flex.home}/bin/mxmlc" property="flex.available" />
+  
+  <!-- Define Flex Ant Tasks -->
+  <taskdef resource="flexTasks.tasks" classpath="${flex.home}/ant/lib/flexTasks.jar" />
+  
+  <!-- Initialize build directories -->
+  <target name="init">
+    <echo message="Initializing build directories..." />
+    <mkdir dir="${bin.dir}" />
+    <mkdir dir="${build.dir}" />
+    
+    <!-- Check Flex SDK availability -->
+    <fail unless="flex.available" 
+          message="Flex SDK not found. Set FLEX_HOME environment variable pointing to your Flex SDK installation." />
+    <echo message="Using Flex SDK: ${flex.home}" />
+  </target>
+  
+  <!-- Compile AS3 to SWF using mxmlc (ActionScript-to-SWF compiler) -->
+  <target name="compile" depends="init">
+    <echo message="Compiling ActionScript 3 to SWF..." />
+    <echo message="Source Directory: ${src.dir}" />
+    <echo message="Output File: ${output.file}" />
+    
+    <mxmlc 
+      file="${src.dir}/iLab.as"
+      output="${output.file}"
+      debug="false"
+      optimize="true"
+      version="11.1"
+      target-player="11.1">
+      
+      <!-- Source Path -->
+      <source-path path-element="${src.dir}" />
+      
+      <!-- Library Path for dependencies -->
+      <library-path dir="${flex.home}/frameworks/libs" includes="*.swc" append="true" />
+      <library-path dir="${flex.home}/frameworks/libs/player/11.1" includes="*.swc" append="true" />
+      
+      <!-- Compiler options -->
+      <compiler-verbose-mode>false</compiler-verbose-mode>
+      <warn-no-constructor>false</warn-no-constructor>
+      <warn-undefined-reference>false</warn-undefined-reference>
+      
+    </mxmlc>
+    
+    <echo message="✓ Successfully compiled: ${output.file}" />
+  </target>
+  
+  <!-- Alternative: Compile with compc (Component compiler) for libraries -->
+  <target name="compile-library" depends="init">
+    <echo message="Compiling as ActionScript Library..." />
+    
+    <compc 
+      output="${bin.dir}/ChemistLib.swc"
+      debug="false"
+      optimize="true"
+      version="11.1"
+      target-player="11.1">
+      
+      <source-path path-element="${src.dir}" />
+      
+      <library-path dir="${flex.home}/frameworks/libs" includes="*.swc" append="true" />
+      <library-path dir="${flex.home}/frameworks/libs/player/11.1" includes="*.swc" append="true" />
+      
+      <include-sources dir="${src.dir}" includes="*.as" />
+      
+    </compc>
+    
+    <echo message="✓ Successfully compiled library: ${bin.dir}/ChemistLib.swc" />
+  </target>
+  
+  <!-- Clean build artifacts -->
+  <target name="clean">
+    <echo message="Cleaning build artifacts..." />
+    <delete dir="${bin.dir}" />
+    <delete dir="${build.dir}" />
+    <echo message="✓ Clean complete" />
+  </target>
+  
+  <!-- Rebuild: Clean + Compile -->
+  <target name="rebuild" depends="clean,compile">
+    <echo message="✓ Rebuild complete" />
+  </target>
+  
+  <!-- Full build: All targets -->
+  <target name="all" depends="clean,compile,compile-library">
+    <echo message="✓ Full build complete" />
+    <echo message="Output files:" />
+    <echo message="  - SWF: ${output.file}" />
+    <echo message="  - SWC: ${bin.dir}/ChemistLib.swc" />
+  </target>
+  
+  <!-- Validate setup -->
+  <target name="check-setup" depends="init">
+    <echo message="Build Configuration:" />
+    <echo message="  Project: ${project.name} v${version}" />
+    <echo message="  Flex SDK: ${flex.home}" />
+    <echo message="  Source: ${src.dir}" />
+    <echo message="  Output: ${output.file}" />
+    <echo message="  Main Class: ${main.class}" />
+    <echo message="✓ Configuration valid" />
+  </target>
+  
+</project>
